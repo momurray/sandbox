@@ -1,0 +1,267 @@
+body {
+	width: 100% !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	-webkit-text-size-adjust: none !important;
+}
+
+.externalclass * {
+	line-height: 105% !important;
+}
+
+
+*[class="rewards_balance"] {
+	font-size: 36px !important;
+	height: 52px !important;
+}
+
+*[class="offer-hero_arrow-percentage"] {
+	background-color: #ffffff !important;
+}
+
+*[class="offer_arrow-percentage"] {
+	background-color: #ffffff !important;
+}
+
+@media only screen and (max-width: 620px), (max-device-width: 620px) {
+	*[class="dbl_button"] {
+		width: 100% !important;
+		height: 48px;
+	}
+	*[class="60px"] {
+		width: 60px !important;
+	}
+	*[class="show_620"] {
+		display: block !important;
+		width: 100% !important;
+	}
+	*[class="offer_description"] {
+		height: auto !important;
+		width: 280px !important;
+	}
+	*[class="offer-hero_logo"] {
+		width: 10px !important;
+	}
+	*[class="offer-hero_logo-box"] {
+		width: 70% !important;
+	}
+	*[class="offer_logo-box"] {
+		width: 80% !important;
+	}
+	*[class="offer-hero_arrow-percentage"] {
+		background-color: #ffffff !important;
+	}
+	*[class="offer_arrow-percentage"] {
+		background-color: #ffffff !important;
+	}
+	*[class="offer-hero_percentage"] {
+		font-size: 28px !important;
+	}
+	td[class="block_480_40pc"] {
+		width: 40% !important;
+	}
+	*[class="70pc_left"] {
+		width: 70% !important;
+		text-align: left;
+	}
+	*[class="75pc_left"] {
+		width: 70% !important;
+		text-align: left;
+	}
+	*[class="5pc_hide"] {
+		display: none;
+	}
+	*[class="full_width"] {
+		width: 100% !important;
+	}
+	*[class="hide_620"] {
+		display: none !important;
+		visibility: hidden !important;
+	}
+	*[class="block_620"] {
+		display: block !important;
+		width: 100% !important;
+	}
+	*[class="100pc"] {
+		width: 100% !important;
+	}
+	*[class="90pc"] {
+		width: 90% !important;
+	}
+	*[class="80pc"] {
+		width: 80% !important;
+	}
+	*[class="75pc"] {
+		width: 75% !important;
+	}
+	*[class="70pc"] {
+		width: 70% !important;
+	}
+	*[class="60pc"] {
+		width: 60% !important;
+	}
+	*[class="50pc"] {
+		width: 50% !important;
+	}
+	*[class="45pc"] {
+		width: 45% !important;
+	}
+	*[class="33pc"] {
+		width: 33% !important;
+	}
+	*[class="30pc"] {
+		width: 30% !important;
+	}
+	*[class="25pc"] {
+		width: 25% !important;
+	}
+	*[class="23pc"] {
+		width: 23% !important;
+	}
+	*[class="22pc"] {
+		width: 22% !important;
+	}
+	*[class="10pc"] {
+		width: 10% !important;
+	}
+	*[class="5pc"] {
+		width: 5% !important;
+	}
+	*[class="70pc_left"] {
+		width: 70% !important;
+	}
+	*[class="75pc_left"] {
+		width: 75% !important;
+	}
+	*[class="5pc_hide"] {
+		width: 5% !important;
+	}
+	*[class="span_header_side"] {
+		font-size: 3.2vw !important;
+	}
+	*[id="p_label"] {
+		font-size: 3.2vw !important;
+	}
+	*[id="p_label_cd"] {
+		font-size: 14px !important;
+	}
+	*[class="rewards_balance"] {
+		font-size: 5.5vw !important;
+		height: auto !important;
+	}
+	*[id="hero_offer_image_cell"] {
+		padding: 0px 10px !important;
+	}
+	*[id="hero_offer_image"] {
+		width: 100% !important;
+		max-width: 160px !important;
+	}
+	*[class="how_to_steps"] {
+		padding-right: 15px !important;
+	}
+}
+
+@media only screen and (max-width: 480px), (max-device-width: 480px) {
+	*[class="dbl_button"] {
+		width: 100% !important;
+		padding: 10px 20px 10px 20px !important;
+	}
+	img[class="logoImg"] {
+		padding-left: 0!important;
+	}
+	img[class="rewards_balance_title"] {
+		width: 155px!important;
+	}
+	span[class="buttons_redemption"] {
+		font-size: 17px!important;
+	}
+	td[class="shop_480"] {
+		width: 260px!important;
+	}
+	td[class="block_480_40pc"] {
+		display: block !important;
+		width: 100% !important;
+	}
+	*[class="full_width"] {
+		width: 320px !important;
+	}
+	*[class="10px_480"] {
+		width: 10px !important;
+	}
+	*[class="hide_480"] {
+		display: none !important;
+		visibility: hidden !important;
+	}
+	*[class="show_480"] {
+		display: inline-block !important;
+	}
+	*[class="block_480"] {
+		display: block !important;
+		width: 100% !important;
+	}
+	td[class="block_480_img"] {
+		display: block !important;
+		width: 100% !important;
+	}
+	td[class="block_480_img"] img {
+		margin-left: 196px;
+	}
+	td[class="block_480_img"] img {
+		border-radius: 0 0 0 0 !important;
+	}
+	*[class="rewards_balance_table"] {
+		display: block !important;
+		padding: 0 10px 0 10px;
+	}
+	*[class="offer-hero_logo-box"] {
+		width: 60% !important;
+	}
+	*[class="offer_logo-box"] {
+		width: 60% !important;
+	}
+	*[class="margin_bottom"] {
+		margin-bottom: 10px!important;
+	}
+	*[class="content"] {
+		padding: 10px !important;
+	}
+	*[class="content_no_top_padding"] {
+		padding: 0 10px 10px 10px!important;
+	}
+	*[class="content2"] {
+		padding: 0 15px 0 0 !important;
+	}
+	*[id="p_label"] {
+		font-size: 11px !important;
+	}
+	*[id="p_label_cd"] {
+		font-size: 9px !important;
+	}
+	*[class="rewards_balance"] {
+		font-size: 18px !important;
+		padding: 2px 0px 2px 5px !important;
+	}
+	*[class="offer_cta"] {
+		width: 100% !important;
+		padding: 20px 10px 10px 10px !important;
+	}
+	*[class="simple_button"] {
+		width: 100% !important;
+		padding: 0px 10px 10px 10px !important;
+	}
+	*[class="offer_copy"] {
+		padding: 10px !important;
+	}
+	*[class="hero_offer_description"] {
+		height: auto !important;
+		width: 280px !important;
+	}
+	*[id="how_to_earn"] {
+		padding: 8px 10px !important;
+	}
+	*[class="how_to_steps"] {
+		display: block !important;
+		width: 100% !important;
+		padding: 2px 0px !important;
+	}
+}
